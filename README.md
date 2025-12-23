@@ -27,7 +27,3 @@ Deploy this repo directly to apply.build:
 - Health check endpoint
 
 ---
-
-## 📁 Project Structure
-
-
