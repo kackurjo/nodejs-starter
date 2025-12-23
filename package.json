@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-starter",
+  "version": "1.0.0",
+  "description": "starter templatee for nodejs api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kackurjo/nodejs-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/kackurjo/nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/kackurjo/nodejs-starter#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
