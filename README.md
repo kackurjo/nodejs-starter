@@ -14,7 +14,7 @@ A minimal **Node.js + Express** starter project, ready to deploy directly from G
 
 Deploy this repo directly to apply.build:
 
-[![Deploy with apply.build](https://apply.build/deploy-button.svg)](https://apply.build/deploy?repo=https://github.com/YOUR_ORG/YOUR_REPO)
+[![Deploy with apply.build](https://apply.build/deploy-button.svg)](https://apply.build/)
 
 > No YAML. No infrastructure setup. Just connect your GitHub repo and deploy.
 
@@ -25,8 +25,6 @@ Deploy this repo directly to apply.build:
 - Node.js 18+
 - Express.js
 - Health check endpoint
-- Production-ready Dockerfile
-- Sensible security defaults
 
 ---
 
